@@ -32,7 +32,14 @@ java web developer uses
 html,javascript,ajax,css,java
 
 ruby on rails developer uses
-html,javascript,ajax,css,ror
+html,javascript/coffeescript,ajax,css/scss,ruby,rspec
+
+sinatra developer uses
+ruby, optional( html,css and javascript )
+
+padrino developer uses
+ruby, html,css and javascript
+
 
 asp developer uses
 html,javascrip,ajax,css,asp
