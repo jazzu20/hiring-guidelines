@@ -8,7 +8,7 @@ android dev uses
 java, android sdk
 
 ios dev uses
-objective c
+objective-c, swift, cocoa touch
 
 unity3d uses
 c# or javascript
