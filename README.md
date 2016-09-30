@@ -1,48 +1,98 @@
-How to find programmers for a project
+# How to find programmers for a project
 
 
-nexchange uses
-html,javascript,ajax,css,jquery,jquery mobile,php,mysql
+## nexchange developer
+* html
+* javascript
+* ajax
+* css
+* jquery
+* jquery mobile
+* php
+* mysql
 
-android dev uses
-java, android sdk
+## android dev developer
+* java
+* android sdk
 
-ios dev uses
-objective c
+## ios dev developer
+* objective c
 
-unity3d uses
-c# or javascript
+## unity3d developer
+* c# / javascript
 
-phonegap/cordova dev uses
-html,javascript,ajax,css,phonegap
+## phonegap/cordova developer
+* html
+* javascript
+* ajax
+* css
+* phonegap
 
-php web developer uses
-html,javascript,ajax,css,php
+## php web developer
+* html
+* javascript
+* ajax
+* css
+* php
 
-magento developer uses
-html,javascript,ajax,css,php,mysql,magento
+## magento developer
+* html
+* javascript
+* ajax
+* css
+* php
+* mysql
+* magento
 
-wordpress developer uses
-html,javascript,ajax,css,php,mysql,wordpress
+## wordpress developer
+* html
+* javascript
+* ajax
+* css
+* php
+* mysql
+* wordpress
 
-drupal developer uses
-html,javascript,ajax,css,php,mysql,wordpress
+## drupal developer
+* html
+* javascript
+* ajax
+* css
+* php
+* mysql
+* wordpress
  
-java web developer uses
-html,javascript,ajax,css,java
+## java web developer
+* html
+* javascript
+* ajax
+* css
+* java
 
-ruby on rails developer uses
-html,javascript/coffeescript,ajax,css/scss,ruby,rspec
+## ruby on rails developer
+* html
+* javascript/coffeescript
+* ajax
+* css/scss
+* ruby
+* rspec
 
-sinatra developer uses
-ruby, optional( html,css and javascript )
+## sinatra developer
+* ruby
+* optional( html,css and javascript )
 
-padrino developer uses
-ruby, html,css and javascript
+## padrino developer
+* ruby
+* html
+* css and javascript
 
 
-asp developer uses
-html,javascrip,ajax,css,asp
+## asp developer
+* html
+* javascrip
+* ajax
+* css
+* asp
 
 
 ==================================
