@@ -1,22 +1,13 @@
 # How to find programmers for a project
 
-
-## nexchange developer
-* html
-* javascript
-* ajax
-* css
-* jquery
-* jquery mobile
-* php
-* mysql
-
 ## android dev developer
 * java
 * android sdk
 
 ## ios dev developer
-* objective c
+* objective-c
+* swift
+* cocoa touch
 
 ## unity3d developer
 * c# / javascript
@@ -95,7 +86,6 @@
 * asp
 
 
-==================================
 
 how to find phonegap developers
 there’s a lot of type of hybrid developers, the most popular is phonegap so make sure to ask if they are using the technology that you need.
