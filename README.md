@@ -85,6 +85,12 @@
 * css
 * asp
 
+## Shopify Developer
+* HTML5
+* CSS3
+* AJAX
+* JAVACRIPT
+* LIQUID
 
 
 how to find phonegap developers
